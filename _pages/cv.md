@@ -11,26 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Bioinformatics, Alagappa University, 2025
+* B.Sc. in Biotechnology, Bharathiar University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*  Project Stuudent
+  *  Dec 2024 - May 2025
+  * [Pharmacogenomics & CADD Lab] (https://mkarthikeyan.bioinfoau.org/), Alagappa University
+  * 📍Karaikudi, India
+  * Worked on a Vaccine Design Project for Hepatitis B
+  * Supervisor: [Dr. M. Karthikeyan](mailto:karthikeyanm@alagappauniversity.ac.in)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern
+  * May 2024 - July 2024 
+  * Big Data Analytics Lab, [CSIR-Institute of Microbial Technology](https://www.imtech.res.in/contact/staff/dr-srikrishna-subramanian)
+  * 📍Chandigarh, India
+    * Responsibilities include:  
+      * Analyzed microbial genome data to predict and annotate genes using multiple computational gene prediction tools.  
+      * Explored structural and functional aspects of microbial proteins through protein modeling and sequence analysis.  
+      * Collaborated with researchers to interpret genomic findings and present weekly updates on project progress. 
+  * Supervisor: [Dr. Srikrishna Subramanian](mailto:krishna@imtech.res.in)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
