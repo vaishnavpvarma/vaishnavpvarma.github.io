@@ -17,16 +17,16 @@ Education
 Work experience
 ======
 *  Project Stuudent
-  *  Dec 2024 - May 2025
-  * [Pharmacogenomics & CADD Lab] (https://mkarthikeyan.bioinfoau.org/), Alagappa University
-  * 📍Karaikudi, India
-  * Worked on a Vaccine Design Project for Hepatitis B
-  * Supervisor: [Dr. M. Karthikeyan](mailto:karthikeyanm@alagappauniversity.ac.in)
+    *  Dec 2024 - May 2025
+    * [Pharmacogenomics & CADD Lab](https://mkarthikeyan.bioinfoau.org/), Alagappa University
+    * 🌍 Karaikudi, India
+    * Worked on a Vaccine Design Project for Hepatitis B
+    * Supervisor: [Dr. M. Karthikeyan](mailto:karthikeyanm@alagappauniversity.ac.in)
 
 * Research Intern
   * May 2024 - July 2024 
   * Big Data Analytics Lab, [CSIR-Institute of Microbial Technology](https://www.imtech.res.in/contact/staff/dr-srikrishna-subramanian)
-  * 📍Chandigarh, India
+  * 🌍 Chandigarh, India
     * Responsibilities include:  
       * Analyzed microbial genome data to predict and annotate genes using multiple computational gene prediction tools.  
       * Explored structural and functional aspects of microbial proteins through protein modeling and sequence analysis.  
