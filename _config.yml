@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Vaish"
+title                    : "Vaishnav P Varma"
 title_separator          : "-"
 name                     : &name "Vaishnav P Varma"
-description              : &description "Bioinformatician"
+description              : &description "Bioinformatician and computational genomics researcher working on long-read sequencing, host-pathogen genomics, and infectious disease surveillance."
 url                      : https://vaishnavpvarma.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vaishnavpvarma.github.io"
@@ -23,11 +23,11 @@ repository               : "vaishnavpvarma.github.io"
 author:
   # Biographic information
   avatar           : "Profile picture - Professional bg - Vaish.png"
-  name             : "Vaishnav Varma"
+  name             : "Vaishnav P Varma"
   pronouns         : "he/him"  
-  bio              : "Post Graduate in Bioinformatics from Alagappa University, Specialized in Structural Bioinformatics and Proteomics"
-  location         : "Tamil Nadu, India"
-  employer         : "Alagappa University"
+  bio              : "Project Associate-I at CSIR-IGIB working on ONT genomic surveillance, host-pathogen genomics, methylation profiling, and infectious disease bioinformatics."
+  location         : "New Delhi, India"
+  employer         : "CSIR-Institute of Genomics and Integrative Biology"
   uri              : # URL
   email            : "vaishnavpvarma@gmail.com" 
 
