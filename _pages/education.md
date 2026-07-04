@@ -7,9 +7,7 @@ author_profile: false
 
 <section class="education-hero" aria-labelledby="education-title">
   <div class="education-hero__inner">
-    <p class="cv-kicker">Academic Formation</p>
     <h1 id="education-title">Education</h1>
-    <p>Training across bioinformatics, biotechnology, computational biology, and life-science data analysis.</p>
   </div>
 </section>
 
@@ -31,7 +29,7 @@ author_profile: false
   <article class="education-entry">
     <div class="education-entry__media education-entry__media--dynamic" aria-label="KASC and Bharathiar University logos">
       <img class="education-logo education-logo--primary" src="{{ '/images/logos/KASC_Logo.png' | relative_url }}" alt="KASC logo">
-      <img class="education-logo education-logo--secondary" src="{{ '/images/logos/bharathiar_uni_logo.png' | relative_url }}" alt="Bharathiar University logo">
+      <img class="education-logo education-logo--secondary" src="{{ '/images/logos/bharathiar_uni_logo.jpg' | relative_url }}" alt="Bharathiar University logo">
     </div>
     <div class="education-entry__content">
       <p class="cv-kicker">Sep 2020 - May 2023 | Coimbatore, India</p>
