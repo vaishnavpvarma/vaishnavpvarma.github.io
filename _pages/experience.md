@@ -44,14 +44,6 @@ author_profile: true
 </section>
 
 <section class="cv-section">
-  <h2>Education</h2>
-  <div class="cv-highlight-grid">
-    <article><h3>M.Sc. Bioinformatics</h3><p>Alagappa University, Karaikudi | Jul 2023 - May 2025<br>GPA: 7.77/10.00</p></article>
-    <article><h3>B.Sc. Biotechnology</h3><p>Bharathiar University, Coimbatore | Sep 2020 - May 2023<br>GPA: 7.2/10.00</p></article>
-  </div>
-</section>
-
-<section class="cv-section">
   <h2>Memberships, Fellowships, and Training</h2>
   <ul>
     <li>Bioinformatics and Drug Discovery Society member, ID: SMBIDDS17-572, Feb 2025 - Present.</li>
