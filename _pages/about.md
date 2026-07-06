@@ -45,7 +45,7 @@ redirect_from:
 
 <section class="cv-section">
   <h2>Recent Posts on X</h2>
-  <div class="x-embed">
+  <div class="x-embed" style="margin: 20px 0;">
     <a class="twitter-timeline" 
        href="https://x.com/Vaish_Varma" 
        data-height="520" 
@@ -56,7 +56,7 @@ redirect_from:
     </a>
     <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
     
-    <p class="x-fallback">
+    <p class="x-fallback" style="text-align: center; font-size: 0.95rem; margin-top: 12px;">
       <a href="https://x.com/Vaish_Varma" target="_blank" rel="noopener noreferrer">
         View @Vaish_Varma on X
       </a>
