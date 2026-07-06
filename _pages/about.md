@@ -46,8 +46,20 @@ redirect_from:
 <section class="cv-section">
   <h2>Recent Posts on X</h2>
   <div class="x-embed">
-    <a class="twitter-timeline" data-height="520" data-chrome="noheader nofooter transparent" href="https://twitter.com/Vaish_Varma?ref_src=twsrc%5Etfw">Posts by Vaish_Varma</a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <p class="x-fallback"><a href="https://twitter.com/Vaish_Varma">View @Vaish_Varma on X</a></p>
+    <a class="twitter-timeline" 
+       href="https://x.com/Vaish_Varma" 
+       data-height="520" 
+       data-theme="light" 
+       data-chrome="noheader nofooter transparent"
+       data-tweet-limit="5">
+       Posts by Vaish_Varma
+    </a>
+    <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+    
+    <p class="x-fallback">
+      <a href="https://x.com/Vaish_Varma" target="_blank" rel="noopener noreferrer">
+        View @Vaish_Varma on X
+      </a>
+    </p>
   </div>
 </section>
