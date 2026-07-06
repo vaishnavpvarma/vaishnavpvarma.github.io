@@ -43,23 +43,15 @@ redirect_from:
   </article>
 </section>
 
-<section class="cv-section">
-  <h2>Recent Posts on X</h2>
-  <div class="x-embed" style="margin: 20px 0;">
-    <a class="twitter-timeline" 
-       href="https://x.com/Vaish_Varma" 
-       data-height="520" 
-       data-theme="light" 
-       data-chrome="noheader nofooter transparent"
-       data-tweet-limit="5">
-       Posts by Vaish_Varma
-    </a>
-    <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-    
-    <p class="x-fallback" style="text-align: center; font-size: 0.95rem; margin-top: 12px;">
-      <a href="https://x.com/Vaish_Varma" target="_blank" rel="noopener noreferrer">
-        View @Vaish_Varma on X
-      </a>
-    </p>
-  </div>
-</section>
+<!-- Place <div> tag where you want the feed to appear -->
+<div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+
+<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+<script type="text/javascript">
+/* curator-feed-default-feed-layout */
+(function(){
+var i,e,d=document,s="script";i=d.createElement("script");i.async=1;i.charset="UTF-8";
+i.src="https://cdn.curator.io/published/bf50ffe2-05d1-41ae-aa9d-62a61ff92deb.js";
+e=d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+})();
+</script>
