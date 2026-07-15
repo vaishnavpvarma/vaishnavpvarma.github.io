@@ -208,7 +208,7 @@ author_profile: false
        Section 4: InGen Hope
        ═══════════════════════════════════════════ -->
   <section class="gallery-section gallery-reveal" aria-labelledby="gallery-ingen">
-    <h2 id="gallery-ingen">InGen Hope — Making a Difference</h2>
+    <h2 id="gallery-ingen">INGEN-HOPE — Making a difference </h2>
     <p class="gallery-section__desc">
       Science beyond the bench — contributing to global health initiatives and capacity building.
       A proud moment at the WHO South-East Asia Regional Office, where research meets real-world impact.
