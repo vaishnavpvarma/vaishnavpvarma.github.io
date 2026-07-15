@@ -208,17 +208,23 @@ author_profile: false
        Section 4: InGen Hope
        ═══════════════════════════════════════════ -->
   <section class="gallery-section gallery-reveal" aria-labelledby="gallery-ingen">
-    <h2 id="gallery-ingen">INGEN-HOPE — Making a difference </h2>
+    <div class="gallery-ingen-header">
+      <img src="{{ '/images/ingen_hope/ingen-hope-logo.png' | relative_url }}" alt="INGEN-HOPE logo" class="gallery-ingen-logo">
+      <h2 id="gallery-ingen">INGEN-HOPE — Making a difference</h2>
+    </div>
     <p class="gallery-section__desc">
       Science beyond the bench — contributing to global health initiatives and capacity building.
       A proud moment at the WHO South-East Asia Regional Office, where research meets real-world impact.
     </p>
 
-    <div class="gallery-grid gallery-grid--single gallery-reveal">
+    <div class="gallery-ingen-photo gallery-reveal">
       <figure>
         <img src="{{ '/images/ingen_hope/WHO_SEARO_GroupPhoto.JPG' | relative_url }}" alt="WHO SEARO group photo" loading="lazy">
         <figcaption>WHO South-East Asia Regional Office — Group Photo</figcaption>
       </figure>
+      <a class="gallery-ingen-source" href="https://www.who.int/southeastasia/news/detail/17-04-2026-searo-sir-igib-dengue-genomics" target="_blank" rel="noopener noreferrer">
+        Featured →
+      </a>
     </div>
   </section>
 
