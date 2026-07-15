@@ -13,6 +13,48 @@ author_profile: false
   </div>
 </section>
 
+<style>
+.gallery-ingen-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.gallery-ingen-logo {
+  height: 28px;
+  width: auto;
+  max-width: none;
+}
+
+.gallery-ingen-photo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gallery-ingen-photo figure {
+  margin: 0;
+}
+
+.gallery-ingen-photo img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+.gallery-ingen-source {
+  margin-top: 0.75rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #0a7c7c;
+}
+
+.gallery-ingen-source:hover {
+  text-decoration: underline;
+}
+</style>
+
 <div class="gallery-page">
 
   <!-- ═══════════════════════════════════════════
